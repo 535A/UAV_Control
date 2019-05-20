@@ -1,0 +1,15 @@
+"D:\iar7.4\arm\bin\armproc.dll" 
+
+"D:\iar7.4\arm\bin\armjlink.dll" 
+
+"E:\My_design\STM32\aircraft_4\XPH_Control\project\EWARMv5\Debug\Exe\XPH_Model.out" 
+
+--plugin "D:\iar7.4\arm\bin\armbat.dll" 
+
+--device_macro "D:\iar7.4\arm\config\debugger\ST\STM32F1xx_XL.dmac" 
+
+--flash_loader "D:\iar7.4\arm\config\flashloader\ST\FlashSTM32F10xx8.board" 
+
+
+
+
